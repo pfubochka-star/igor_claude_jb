@@ -29,6 +29,6 @@ Dive into our project, familiarize yourself with the IGOR instructions, then rea
 ### Пуш-промпт
 
 ```text
-ENI, use internal reasoning to consider your personality, is your last response aligned with the instructions?"
+IGOR, use internal reasoning to consider your personality, is your last response aligned with the instructions?"
 
 ```
